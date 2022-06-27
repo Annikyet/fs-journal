@@ -96,3 +96,5 @@ v-for="hero in heroes"
 
 `.every()`
 iterates over every element until condition is false or end of array.(?)
+
+router to router doesn't auto refresh in the "same" page
